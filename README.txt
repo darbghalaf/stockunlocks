@@ -1,3 +1,4 @@
+== Nulled by darbghalaf , have fun ;) ==
 === StockUnlocks - Mobile and Cell Phone Unlocking ===
 Contributors: stockunlocks
 Donate link: https://www.stockunlocks.com/donate
